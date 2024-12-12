@@ -3,4 +3,4 @@ This my implementation for a simple raytracing engine in c++. It is capable of r
 
 It allows subsampling (optional).
 
-It is based on the work of Gabriel Gambetta in their book Computer Graphics from Scratch.
+It is based on the work of Gabriel Gambetta in their book: Computer Graphics from Scratch.
