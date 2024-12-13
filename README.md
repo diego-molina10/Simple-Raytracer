@@ -15,5 +15,5 @@ O is the origin(or camera position).
 BackgroundColor is and rgb tuple.
 To modify any of the aforementioned just update them in raytracing.cpp
 
-For rendering a scene (spheres, lights, triangles), add the spheres to scene in raytracing.cpp and update it in raytracing.h
+For rendering a scene (spheres, lights, triangles), add the spheres to scene in raytracing.cpp and update it in raytracing.h .
 For the triangles use sceneTriangles and for the lights use sceneLights and update them as you would for the spheres.
